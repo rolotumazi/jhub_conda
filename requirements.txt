@@ -1,0 +1,4 @@
+numpy
+matplotlib
+nb_conda_kernels
+
